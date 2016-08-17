@@ -1,2 +1,4 @@
+More changes
 Another file
 Change in greet
+A third
