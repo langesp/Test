@@ -1,3 +1,4 @@
+change in feature 4
 Some new file
 
 Some stuff added to new file
