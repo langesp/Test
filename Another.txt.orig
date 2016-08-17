@@ -1,0 +1,9 @@
+More changes
+Another file
+<<<<<<< HEAD
+Change in greet
+A third
+=======
+change 2 in f4
+Change in greet
+>>>>>>> feature/myFeature4
